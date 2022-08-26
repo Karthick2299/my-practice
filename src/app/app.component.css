@@ -3,3 +3,13 @@
 h4{
     font-family: 'Poppins';
 }
+img{
+  width:12rem;
+}
+.container{
+  width:90vw;
+  height:90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
